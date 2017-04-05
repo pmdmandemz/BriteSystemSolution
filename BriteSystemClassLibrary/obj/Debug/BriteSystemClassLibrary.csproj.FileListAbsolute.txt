@@ -1,0 +1,5 @@
+H:\Desktop\BriteSystem\BriteSystemSolution\BriteSystemClassLibrary\bin\Debug\BriteSystemClassLibrary.dll
+H:\Desktop\BriteSystem\BriteSystemSolution\BriteSystemClassLibrary\bin\Debug\BriteSystemClassLibrary.pdb
+H:\Desktop\BriteSystem\BriteSystemSolution\BriteSystemClassLibrary\obj\Debug\BriteSystemClassLibrary.csprojResolveAssemblyReference.cache
+H:\Desktop\BriteSystem\BriteSystemSolution\BriteSystemClassLibrary\obj\Debug\BriteSystemClassLibrary.dll
+H:\Desktop\BriteSystem\BriteSystemSolution\BriteSystemClassLibrary\obj\Debug\BriteSystemClassLibrary.pdb

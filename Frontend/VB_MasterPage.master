@@ -1,0 +1,28 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="VB_MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+    <head id="Head1" runat="server">
+        <title>master </title>
+        <link href="StyleSheet.css" rel="stylesheet" type="text/css" />
+        </head>
+    <body>
+        <form id="form1" runat="server">
+  
+             <header id="header-container" style="align-items:center; align-content:center; width:920px;">
+                 <asp:Image ID="logo" src="logo.jpg" runat="server" Height="200px" Width="200px" BorderStyle="Solid" />
+                 <asp:Label ID="header" runat="server" Text="Brite Electronics"  Height="100px" Width="600px" Font-Size="78px" BorderStyle="Solid"></asp:Label>
+                 </header>
+             <article style="align-content:center; width: 906px; height:600px; border:solid"  >
+                 <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                     place content here
+                 </asp:ContentPlaceHolder>           
+            </article>
+  <footer style="border-style:; width:906px;background-color: #FFFFFF;">
+
+      <asp:ImageButton ID="home" runat="server" OnClick="Home_Click" ImageUrl="~/Buttons/Home.jpg" Height="150px" Width="150px" ImageAlign="Right"/>
+             </footer>
+        </form>
+    </body>
+</html>

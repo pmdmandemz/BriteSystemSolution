@@ -1,0 +1,8 @@
+H:\Desktop\BriteSystem\BriteSystemSolution\BriteSystemTesting\bin\Debug\BriteSystemTesting.dll
+H:\Desktop\BriteSystem\BriteSystemSolution\BriteSystemTesting\bin\Debug\BriteSystemTesting.pdb
+H:\Desktop\BriteSystem\BriteSystemSolution\BriteSystemTesting\bin\Debug\BriteSystemClassLibrary.dll
+H:\Desktop\BriteSystem\BriteSystemSolution\BriteSystemTesting\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+H:\Desktop\BriteSystem\BriteSystemSolution\BriteSystemTesting\bin\Debug\BriteSystemClassLibrary.pdb
+H:\Desktop\BriteSystem\BriteSystemSolution\BriteSystemTesting\obj\Debug\BriteSystemTesting.csprojResolveAssemblyReference.cache
+H:\Desktop\BriteSystem\BriteSystemSolution\BriteSystemTesting\obj\Debug\BriteSystemTesting.dll
+H:\Desktop\BriteSystem\BriteSystemSolution\BriteSystemTesting\obj\Debug\BriteSystemTesting.pdb

@@ -1,0 +1,56 @@
+﻿body
+{
+    background-color: #ffffff;
+  padding-left:500px;
+  padding-top:0px;
+    
+}
+
+header-container
+{
+    background-color: #ffffff;
+    height: 100%;
+    position: center;
+    width: 100%;
+    top: 0%;
+    left: 0%;
+    align-content: center;
+}
+
+#header
+{
+    padding: 50px;
+    align-self: center;
+    align-items: center;
+    margin: auto;
+}
+
+#logo {
+float:left;
+align-items:center;
+}
+
+#title {
+     text-align: center;
+     padding: 35px;
+}
+
+footer
+{
+    background-color: #ffffff;
+    height: 10%;
+    position:;
+    width: 69%;
+    top: 90%;
+    left: 0%;
+    margin-bottom: 33px;
+}
+
+article
+{
+    background-color: #ffff;
+    position:;
+    width: 69%;
+    top: 10%;
+    left: 20%;
+}
